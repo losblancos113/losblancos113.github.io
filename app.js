@@ -1,5 +1,5 @@
 var data;
-const API_URL ="http://demo4025788.mockable.io/peslucky";
+const API_URL ="https://demo4025788.mockable.io/peslucky";
 var loadData = () => {
     $.ajax({
         dataType: "json",
